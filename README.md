@@ -5,9 +5,13 @@ A collection of awesome world  (countries, regions, cities, oceans, rivers, lati
 
 ## World Data (Countries, Cities, etc.)
 
-## Open Street Map (OSM)
+### Open Street Map (OSM)
 
 - [Downloads](http://wiki.openstreetmap.org/wiki/Downloading_data)
+
+### Natural Earth
+
+- [Downloads](http://www.naturalearthdata.com/downloads)
 
 ### Geonames.org
 
