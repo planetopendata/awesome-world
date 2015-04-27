@@ -59,8 +59,8 @@ A collection of awesome world  (countries, regions, cities, oceans, rivers, lati
 
 ## More
 
+- [OpenAddresses](http://openaddresses.io), [:octocat:](https://github.com/openaddresses) - free and open global address collection (public domain)
 - [Global Administrative Areas Database (GADM)](http://www.gadm.org)
-- [OpenAddresses](http://openaddresses.io) - free and open global address collection (public domain)
 
 
 ## Meta
