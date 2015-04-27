@@ -3,6 +3,24 @@
 A collection of awesome world  (countries, regions, cities, oceans, rivers, latitude/longitude, maps, etc.) datasets
 
 
+## World Data (Countries, Cities, etc.)
+
+### Geonames.org
+
+- [geonames.org](http://geonames.org) - open geo (geographical) database covers all countries and contains over eight million placenames
+
+### More
+
+- [countries :octocat:](https://github.com/hexorx/countries) - world countries; includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
+
+- [countries :octocat:](https://github.com/mledoze/countries) - world countries with iso codes, currencies and more in JSON, CSV and XML.
+
+- [django-cities :octocat:](https://github.com/coderholic/django-cities) - python script for importing countries, regions, cities etc. from geonames.org
+
+- [current-countries-of-earth :octocat:](https://github.com/ewheeler/current-countries-of-earth) - python script to fetch current ISO 3166 country info; output as JSON
+
+- [worlddb](http://code.google.com/p/worlddb) -  open world database alpha; includes country, region & city names in many languages names and latitude and longitude numbers and country's iso 2-letter code.
+
 
 ## Country Codes
 
