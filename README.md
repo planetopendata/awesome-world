@@ -31,12 +31,22 @@ A collection of awesome world  (countries, regions, cities, oceans, rivers, lati
 - [worlddb](http://code.google.com/p/worlddb) -  open world database alpha; includes country, region & city names in many languages names and latitude and longitude numbers and country's iso 2-letter code.
 
 
-## Country Codes
+## Country Codes (Alpha2, Alpha3, Num, etc.)
 
-- Debian ISO Codes
+- Debian ISO Codes Package
+
+
+## Country Locale Data (Formats for Dates, Numbers, Addresses, etc.)
+
+- ICU (International Components for Unicode)
+- CLDR  (Common Locale Data Repository) @ Unicode
+
 
 ## Country Flags
 
+- [Gallery of sovereign state flags @ Wikipedia](http://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags)
+- [Flags of the World @ Factbook](https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html)
+- [Google i18n Region Flags :octocat:](https://github.com/googlei18n/region-flags) - Collection of flags for BCP 47 region codes in SVG / PNG
 
 ## Factbook
 
