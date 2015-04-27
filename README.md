@@ -5,9 +5,18 @@ A collection of awesome world  (countries, regions, cities, oceans, rivers, lati
 
 ## World Data (Countries, Cities, etc.)
 
+## Open Street Map (OSM)
+
+- [Downloads](http://wiki.openstreetmap.org/wiki/Downloading_data)
+
 ### Geonames.org
 
 - [geonames.org](http://geonames.org) - open geo (geographical) database covers all countries and contains over eight million placenames
+- [Downloads](http://www.geonames.org/export/)
+
+## Wikipedia / Wikidata
+
+- Country Pages with Infobox
 
 ### More
 
@@ -24,6 +33,7 @@ A collection of awesome world  (countries, regions, cities, oceans, rivers, lati
 
 ## Country Codes
 
+- Debian ISO Codes
 
 ## Country Flags
 
@@ -36,6 +46,11 @@ A collection of awesome world  (countries, regions, cities, oceans, rivers, lati
 - [openmundi/factbook.json :octocat:](https://github.com/openmundi/factbook.json) - Datasets (JSON)
 - [worlddb/factbook :octocat:](https://github.com/worlddb/factbook) - Scripts
 
+
+## More
+
+- [Global Administrative Areas Database (GADM)](http://www.gadm.org)
+- [OpenAddresses](http://openaddresses.io) - free and open global address collection (public domain)
 
 
 ## Meta
