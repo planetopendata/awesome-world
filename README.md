@@ -9,6 +9,7 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 
 - [openstreetmap.org](http://www.openstreetmap.org) - the Free Wiki World Map
     - [Downloads](http://wiki.openstreetmap.org/wiki/Downloading_data)
+    - [Nominatim - Search](https://nominatim.openstreetmap.org) - search OpenStreetMap w/ Nominatim service
 
 ### Natural Earth
 
@@ -19,14 +20,18 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 
 - [geonames.org](http://geonames.org) - open geo (geographical) database covers all countries and contains over eight million placenames
     - [GeoTree](http://geotree.geonames.org) - browse the GeoNames continent/country/admin1/admin2/admin2/etc. hierachy
-    - [Downloads](http://www.geonames.org/export/)
+    - [Downloads](http://www.geonames.org/export)
 
-## world.db / Open Mundi
+### Statoids
+
+- [statoids.com](http://www.statoids.com) - Administrative Divisions of Countries ("Statoids")
+
+### world.db / Open Mundi
 
 - [openmundi/world.db :octocat:](https://github.com/openmundi/world.db) - public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)
 - [worlddb :octocat:](https://github.com/worlddb) - world.db Tools & Scripts
 
-## Wikipedia / Wikidata
+### Wikipedia / Wikidata
 
 - Country Pages with Infobox
 
@@ -47,7 +52,7 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 ## Country Codes (Alpha2, Alpha3, Num, etc.)
 
 - Debian ISO Codes Package
-- [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alph2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
+- [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alpha2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
 - [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
 
 
