@@ -105,7 +105,9 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 
 ## Catalogs, Indexes
 
-- [Global Open Data Index @ Open Knowledge](http://index.okfn.org) 
+- [Global Open Data Index @ Open Knowledge](http://index.okfn.org)
+    - [Places](http://index.okfn.org/place) - Country Overview (Ranking)
+    - [Datasets](http://index.okfn.org/dataset)
 
 ## Community (Questions & Answers, Announcements, etc.)
 
