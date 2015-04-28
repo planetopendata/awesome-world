@@ -1,29 +1,35 @@
 # awesome-world
 
-A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, etc.) datasets
+A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, languages, etc.) datasets
 
 
 ## World Data (Countries, Cities, etc.)
 
 ### Open Street Map (OSM)
 
-- [openstreetmap.org](http://www.openstreetmap.org)
-- [Downloads](http://wiki.openstreetmap.org/wiki/Downloading_data)
+- [openstreetmap.org](http://www.openstreetmap.org) - the Free Wiki World Map
+    - [Downloads](http://wiki.openstreetmap.org/wiki/Downloading_data)
 
 ### Natural Earth
 
 - [naturalearthdata.com](http://www.naturalearthdata.com/) - free vector and raster map data at 1:10m, 1:50m, and 1:110m scales; includes first order admin (e.g. provinces, departments, states, etc.) and populated places (e.g. capitals, cities, towns) and more
-- [Downloads](http://www.naturalearthdata.com/downloads)
+    - [Downloads](http://www.naturalearthdata.com/downloads)
 
 ### GeoNames
 
 - [geonames.org](http://geonames.org) - open geo (geographical) database covers all countries and contains over eight million placenames
-- [GeoTree](http://geotree.geonames.org) - browse the GeoNames continent/country/admin1/admin2/admin2/etc. hierachy
-- [Downloads](http://www.geonames.org/export/)
+    - [GeoTree](http://geotree.geonames.org) - browse the GeoNames continent/country/admin1/admin2/admin2/etc. hierachy
+    - [Downloads](http://www.geonames.org/export/)
+
+## world.db / Open Mundi
+
+- [openmundi/world.db :octocat:](https://github.com/openmundi/world.db) - public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)
+- [worlddb :octocat:](https://github.com/worlddb) - world.db Tools & Scripts
 
 ## Wikipedia / Wikidata
 
 - Country Pages with Infobox
+
 
 ### More
 
@@ -68,6 +74,13 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 
 - [OpenAddresses](http://openaddresses.io), [:octocat:](https://github.com/openaddresses) - free and open global address collection (public domain)
 - [Global Administrative Areas Database (GADM)](http://www.gadm.org)
+
+
+## Community (Questions & Answers, Announcements, etc.)
+
+- [Open Data @ Reddit](http://www.reddit.com/r/opendata)
+- [Open Data @ stackexchange](http://opendata.stackexchange.com)
+- [Planet Open Data](http://planetopendata.herokuapp.com), [:octocat:](https://github.com/planetopendata/planet) - Online News Reader
 
 
 ## Meta
