@@ -53,7 +53,13 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 
 - Debian ISO Codes Package
 - [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alpha2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
+- [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes), [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
 - [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
+
+
+## Languages
+
+- [Language codes @ data.okfn](http://data.okfn.org/data/core/language-codes), [:octocat:](https://github.com/datasets/language-codes) - ISO Language Codes (639-1 and 693-2)
 
 
 ## Country Locale Data (Formats for Dates, Numbers, Addresses, etc.)
