@@ -47,6 +47,8 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 ## Country Codes (Alpha2, Alpha3, Num, etc.)
 
 - Debian ISO Codes Package
+- [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alph2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
+- [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
 
 
 ## Country Locale Data (Formats for Dates, Numbers, Addresses, etc.)
@@ -79,7 +81,7 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 ## Community (Questions & Answers, Announcements, etc.)
 
 - [Open Data @ Reddit](http://www.reddit.com/r/opendata)
-- [Open Data @ stackexchange](http://opendata.stackexchange.com)
+- [Open Data @ Stack Exchange](http://opendata.stackexchange.com)
 - [Planet Open Data](http://planetopendata.herokuapp.com), [:octocat:](https://github.com/planetopendata/planet) - Online News Reader
 
 
