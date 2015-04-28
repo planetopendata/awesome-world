@@ -1,21 +1,24 @@
 # awesome-world
 
-A collection of awesome world  (countries, regions, cities, oceans, rivers, latitude/longitude, maps, etc.) datasets
+A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, etc.) datasets
 
 
 ## World Data (Countries, Cities, etc.)
 
 ### Open Street Map (OSM)
 
+- [openstreetmap.org](http://www.openstreetmap.org)
 - [Downloads](http://wiki.openstreetmap.org/wiki/Downloading_data)
 
 ### Natural Earth
 
+- [naturalearthdata.com](http://www.naturalearthdata.com/) - free vector and raster map data at 1:10m, 1:50m, and 1:110m scales; includes first order admin (e.g. provinces, departments, states, etc.) and populated places (e.g. capitals, cities, towns) and more
 - [Downloads](http://www.naturalearthdata.com/downloads)
 
-### Geonames.org
+### GeoNames
 
 - [geonames.org](http://geonames.org) - open geo (geographical) database covers all countries and contains over eight million placenames
+- [GeoTree](http://geotree.geonames.org) - browse the GeoNames continent/country/admin1/admin2/admin2/etc. hierachy
 - [Downloads](http://www.geonames.org/export/)
 
 ## Wikipedia / Wikidata
