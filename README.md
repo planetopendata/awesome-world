@@ -89,6 +89,24 @@ A collection of awesome world  (countries, cities, codes, latitude/longitude, fl
 - [Global Administrative Areas Database (GADM)](http://www.gadm.org)
 
 
+## Europe
+
+### Central Europe
+
+#### Austria / Österreich (at)
+
+- [austria.db :octocat:](https://github.com/openmundi/austria.db)
+
+### Portugal (pt)
+
+- [Postal Codes @ Central de Dados :octocat:](https://github.com/centraldedados/codigos_postais)
+
+
+
+## Catalogs, Indexes
+
+- [Global Open Data Index @ Open Knowledge](http://index.okfn.org) 
+
 ## Community (Questions & Answers, Announcements, etc.)
 
 - [Open Data @ Reddit](http://www.reddit.com/r/opendata)
