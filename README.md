@@ -2,6 +2,12 @@
 
 A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, languages, etc.) datasets
 
+---
+<!-- announcements here -->
+---
+
+Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
 
 ## World Data (Countries, Cities, etc.)
 
