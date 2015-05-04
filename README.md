@@ -54,6 +54,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [worlddb](http://code.google.com/p/worlddb) -  open world database alpha; includes country, region & city names in many languages names and latitude and longitude numbers and country's iso 2-letter code.
 
+- [elicher/geostuff :octocat:](https://github.com/elicher/geostuff) - word_data.json provides various data on all entities (souvereign countries and dependencies) contained in ISO 3166-1 plus all continents and sub_regions; collected by Eckhard Licher
+
 
 ## Country Codes (Alpha2, Alpha3, Num, etc.)
 
@@ -61,6 +63,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alpha2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
 - [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes), [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
 - [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
+
+
+## Currencies
+
+- [wiredmax/world-currencies :octocat:](https://github.com/wiredmax/world-currencies) - currency information in JSON
 
 
 ## Languages
@@ -107,6 +114,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [Postal Codes @ Central de Dados :octocat:](https://github.com/centraldedados/codigos_postais)
 
+### Spain / España  (es)
+
+- [spain_zip_codes gem :octocat:](https://github.com/luismiramirez/spain_zip_codes) - get spanish provinces and locations with zip codes and reverse
 
 
 ## Catalogs, Indexes
