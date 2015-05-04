@@ -28,6 +28,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [GeoTree](http://geotree.geonames.org) - browse the GeoNames continent/country/admin1/admin2/admin2/etc. hierachy
     - [Downloads](http://www.geonames.org/export)
 
+- [GeoNames-MySQL-DataImport :ocotcat:](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - shell ccript to download and import geonames.org dumps into a mysql database
+
+
 ### Statoids
 
 - [statoids.com](http://www.statoids.com) - Administrative Divisions of Countries ("Statoids")
@@ -61,7 +64,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Tinata :octocat:](https://github.com/tinata/tinata) - Tinata is not a travel API (Tinata); free, open access to information about countries
 
 - [i18n_data gem :octocat:](https://github.com/grosser/i18n_data)  - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n in Ruby
+- [carmen gem :octocat:](https://github.com/jim/carmen) - a repository of geographic regions for Ruby
+
 - [Country List :octocat:](https://github.com/umpirsky/country-list) - list of all countries with names and ISO 3166-1 codes in all languages and data formats (JSON, YAML, XML, CSV, SQL etc.)
+- [Country Data @ OpenBookPrices :octocat:](https://github.com/OpenBookPrices/country-data) - Country related data such as ISO codes, currencies etc
 
 
 ## Country Codes (Alpha2, Alpha3, Num, etc.)
@@ -77,6 +83,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## Currencies
 
 - [wiredmax/world-currencies :octocat:](https://github.com/wiredmax/world-currencies) - currency information in JSON
+- [currencies gem :octocat:](https://github.com/hexorx/currencies) -  a library for working with currencies in Ruby; extracted from the countries gem and contains all the currency information in the ISO 4217 standard
+
 
 
 ## Languages
@@ -105,6 +113,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Open World Factbook :octocat:](https://github.com/openfactbook) - The World Factbook in open data formats. Flags and maps included; managed by Eckhard Licher
 - [openmundi/factbook.json :octocat:](https://github.com/openmundi/factbook.json) - Datasets (JSON)
 - [worlddb/factbook :octocat:](https://github.com/worlddb/factbook) - Scripts
+
+- [hijaz/factbook :ocotcat:](https://github.com/hijaz/factbook) - World Factbook scraped raw data
 
 
 ## More
