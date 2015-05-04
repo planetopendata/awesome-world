@@ -58,6 +58,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [elicher/geostuff :octocat:](https://github.com/elicher/geostuff) - word_data.json provides various data on all entities (souvereign countries and dependencies) contained in ISO 3166-1 plus all continents and sub_regions; collected by Eckhard Licher
 
+- [Tinata :octocat:](https://github.com/tinata/tinata) - Tinata is not a travel API (Tinata); free, open access to information about countries
+
+- [i18n_data gem :octocat:](https://github.com/grosser/i18n_data)  - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n in Ruby
+- [Country List :octocat:](https://github.com/umpirsky/country-list) - list of all countries with names and ISO 3166-1 codes in all languages and data formats (JSON, YAML, XML, CSV, SQL etc.)
+
 
 ## Country Codes (Alpha2, Alpha3, Num, etc.)
 
@@ -66,7 +71,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes), [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
 - [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
 
-- [iso_country_codes gem](https://github.com/alexrabarts/iso_country_codes) - a library that provides ISO 3166-1 country codes/names and ISO 4217 currencies in Ruby
+- [iso_country_codes gem :octocat:](https://github.com/alexrabarts/iso_country_codes) - a library that provides ISO 3166-1 country codes/names and ISO 4217 currencies in Ruby
 
 
 ## Currencies
@@ -83,6 +88,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - ICU (International Components for Unicode)
 - CLDR  (Common Locale Data Repository) @ Unicode
+
+- [CLDR Data :octocat:](https://github.com/import-io/cldr_data) - import.io demo using CLDR (Common Locale Data Repository) data and a bit of visualisation
 
 
 ## Country Flags
