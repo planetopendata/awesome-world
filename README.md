@@ -44,11 +44,13 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### More
 
-- [countries :octocat:](https://github.com/hexorx/countries) - world countries; includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
+- [hexorx/countries :octocat:](https://github.com/hexorx/countries) - world countries; includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
 
-- [countries :octocat:](https://github.com/mledoze/countries) - world countries with iso codes, currencies and more in JSON, CSV and XML.
+- [mledoze/countries :octocat:](https://github.com/mledoze/countries) - world countries with iso codes, currencies and more in JSON, CSV and XML
 
 - [django-cities :octocat:](https://github.com/coderholic/django-cities) - python script for importing countries, regions, cities etc. from geonames.org
+
+- [django-countries :octocat:](https://github.com/SmileyChris/django-countries) - Django app providing country choices for use with forms, flag icons static files, and a country field for models
 
 - [current-countries-of-earth :octocat:](https://github.com/ewheeler/current-countries-of-earth) - python script to fetch current ISO 3166 country info; output as JSON
 
@@ -63,6 +65,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alpha2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
 - [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes), [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
 - [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
+
+- [iso_country_codes gem](https://github.com/alexrabarts/iso_country_codes) - a library that provides ISO 3166-1 country codes/names and ISO 4217 currencies in Ruby
 
 
 ## Currencies
