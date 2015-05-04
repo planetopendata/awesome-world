@@ -28,7 +28,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [GeoTree](http://geotree.geonames.org) - browse the GeoNames continent/country/admin1/admin2/admin2/etc. hierachy
     - [Downloads](http://www.geonames.org/export)
 
-- [GeoNames-MySQL-DataImport :ocotcat:](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - shell ccript to download and import geonames.org dumps into a mysql database
+- [GeoNames-MySQL-DataImport :octocat:](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - shell ccript to download and import geonames.org dumps into a mysql database
 
 
 ### Statoids
@@ -114,7 +114,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [openmundi/factbook.json :octocat:](https://github.com/openmundi/factbook.json) - Datasets (JSON)
 - [worlddb/factbook :octocat:](https://github.com/worlddb/factbook) - Scripts
 
-- [hijaz/factbook :ocotcat:](https://github.com/hijaz/factbook) - World Factbook scraped raw data
+- [hijaz/factbook :octocat:](https://github.com/hijaz/factbook) - World Factbook scraped raw data
 
 
 ## More
