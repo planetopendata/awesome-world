@@ -2,8 +2,12 @@
 
 A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, languages, etc.) datasets
 
+Note: :octocat: stands for the GitHub page. 
+
 ---
-<!-- announcements here -->
+
+[ANNOUNCEMENT] Looking for awesome football data (teams, competitions, match schedules, stadiums, etc.)? See the [Awesome Football List @ Planet Open Data](https://github.com/planetopendata/awesome-football). 
+
 ---
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
