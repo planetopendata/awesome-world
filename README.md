@@ -84,8 +84,8 @@ _Where's the open world data?_
 
 - Debian ISO Codes Package
 - [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alpha2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
-- [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes), [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
-- [world.db.codes](http://countrycodes.herokuapp.com), [:octocat:](https://github.com/worlddb/world.db.codes)
+- [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes) -  [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
+- [world.db.codes](http://countrycodes.herokuapp.com) - [:octocat:](https://github.com/worlddb/world.db.codes)
 
 - [iso_country_codes gem :octocat:](https://github.com/alexrabarts/iso_country_codes) - a library that provides ISO 3166-1 country codes/names and ISO 4217 currencies in Ruby
 
@@ -99,7 +99,7 @@ _Where's the open world data?_
 
 ## Languages
 
-- [Language codes @ data.okfn](http://data.okfn.org/data/core/language-codes), [:octocat:](https://github.com/datasets/language-codes) - ISO Language Codes (639-1 and 693-2)
+- [Language codes @ data.okfn](http://data.okfn.org/data/core/language-codes) -  [:octocat:](https://github.com/datasets/language-codes) - ISO Language Codes (639-1 and 693-2)
 
 
 ## Country Locale Data (Formats for Dates, Numbers, Addresses, etc.)
@@ -130,7 +130,7 @@ _Where's the open world data?_
 
 ## More
 
-- [OpenAddresses](http://openaddresses.io), [:octocat:](https://github.com/openaddresses) - free and open global address collection (public domain)
+- [OpenAddresses](http://openaddresses.io) - [:octocat:](https://github.com/openaddresses) - free and open global address collection (public domain)
 - [Global Administrative Areas Database (GADM)](http://www.gadm.org)
 
 
@@ -161,7 +161,7 @@ _Where's the open world data?_
 
 - [Open Data @ Reddit](http://www.reddit.com/r/opendata)
 - [Open Data @ Stack Exchange](http://opendata.stackexchange.com)
-- [Planet Open Data](http://planetopendata.herokuapp.com), [:octocat:](https://github.com/planetopendata/planet) - Online News Reader
+- [Planet Open Data](http://planetopendata.herokuapp.com) - [:octocat:](https://github.com/planetopendata/planet) - Online News Reader
 
 
 ## Meta
