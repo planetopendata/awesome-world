@@ -16,7 +16,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 _Where's the open world data?_
 
-- [Free Geographic Information System (GIS) Data Guide](http://freegisdata.rtwilson.com) - massive (300+ sources) dataset list collected by Robin Wilson (University of Southampton)
+- [Free Geographic Information System (GIS) Data Guide](http://freegisdata.rtwilson.com) - massive dataset list (300+ sources) collected by Robin Wilson (University of Southampton)
 
 
 ## World Data (Countries, Cities, etc.)
