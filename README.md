@@ -2,7 +2,7 @@
 
 A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, languages, etc.) datasets
 
-Note: :octocat: stands for the GitHub page. 
+Note: :package: stands for a Tabular Data Package ([What is?](http://data.okfn.org/doc/tabular-data-package)) and :octocat: stands for the GitHub page. 
 
 ---
 
@@ -84,7 +84,7 @@ _Where's the open world data?_
 
 - Debian ISO Codes Package
 - [Statoids Country Codes Page](http://www.statoids.com/wab.html) - 249 countries; incl. alpha2, alpha3, num, ITU, GEC, IOC,	FIFA, DS, WMO, GAUL, MARC, and Dial  codes
-- [Comprehensive country codes @ data.okfn](http://data.okfn.org/data/core/country-codes) -  [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
+- [Comprehensive country codes @ data.okfn :package:](http://data.okfn.org/data/core/country-codes) -  [:octocat:](https://github.com/datasets/country-codes) - tabular data package; incl. ISO 3166, ITU, ISO 4217 currency codes and many more 
 - [world.db.codes](http://countrycodes.herokuapp.com) - [:octocat:](https://github.com/worlddb/world.db.codes)
 
 - [iso_country_codes gem :octocat:](https://github.com/alexrabarts/iso_country_codes) - a library that provides ISO 3166-1 country codes/names and ISO 4217 currencies in Ruby
@@ -99,7 +99,7 @@ _Where's the open world data?_
 
 ## Languages
 
-- [Language codes @ data.okfn](http://data.okfn.org/data/core/language-codes) -  [:octocat:](https://github.com/datasets/language-codes) - ISO Language Codes (639-1 and 693-2)
+- [Language codes @ data.okfn :package:](http://data.okfn.org/data/core/language-codes) -  [:octocat:](https://github.com/datasets/language-codes) - ISO Language Codes (639-1 and 693-2)
 
 
 ## Country Locale Data (Formats for Dates, Numbers, Addresses, etc.)
@@ -144,11 +144,11 @@ _Where's the open world data?_
 
 ### Portugal (pt)
 
-- [Postal Codes @ Central de Dados :octocat:](https://github.com/centraldedados/codigos_postais)
+- [Postal Codes @ Central de Dados :package: :octocat:](https://github.com/centraldedados/codigos_postais)
 
 ### Spain / España  (es)
 
-- [spain_zip_codes gem :octocat:](https://github.com/luismiramirez/spain_zip_codes) - get spanish provinces and locations with zip codes and reverse
+- [spain_zip_codes gem :octocat:](https://github.com/luismiramirez/spain_zip_codes), [:gem:](https://rubygems.org/gems/spain_zip_codes) - get spanish provinces and locations with zip codes and reverse
 
 
 ## Catalogs, Indexes
