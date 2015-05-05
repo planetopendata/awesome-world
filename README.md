@@ -115,6 +115,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [worlddb/factbook :octocat:](https://github.com/worlddb/factbook) - Scripts
 
 - [hijaz/factbook :octocat:](https://github.com/hijaz/factbook) - World Factbook scraped raw data
+- [worldfactbook-dataset :octocat:](https://github.com/twigkit/worldfactbook-dataset)
 
 
 ## More
