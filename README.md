@@ -6,7 +6,7 @@ Note: :octocat: stands for the GitHub page.
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome football data (teams, competitions, match schedules, stadiums, etc.)? See the [Awesome Football List @ Planet Open Data](https://github.com/planetopendata/awesome-football). 
+[ANNOUNCEMENT] Looking for awesome football data (national teams, clubs, int'l competitions, leagues, match schedules, stadiums, etc.)? See the [Awesome Football List @ Planet Open Data](https://github.com/planetopendata/awesome-football). 
 
 ---
 
