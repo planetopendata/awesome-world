@@ -12,6 +12,12 @@ Note: :octocat: stands for the GitHub page.
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
+## World Data Guides / Articles
+
+_Where's the open world data?_
+
+- [Free Geographic information system (GIS) Data Guide](http://freegisdata.rtwilson.com) - massive (300+ sources) dataset list collected by Robin Wilson (University of Southampton)
+
 
 ## World Data (Countries, Cities, etc.)
 
