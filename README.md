@@ -1,4 +1,11 @@
-# awesome-world
+Awesome Series @ Planet Open Data
+
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
+[SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
+
+
+# World
 
 A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, languages, etc.) datasets
 
@@ -6,7 +13,7 @@ Note: :package: stands for a Tabular Data Package ([What is?](http://data.okfn.o
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome football data (national teams, clubs, int'l competitions, leagues, match schedules, stadiums, etc.)? See the [Awesome Football List @ Planet Open Data](https://github.com/planetopendata/awesome-football). 
+[ANNOUNCEMENT] Looking for awesome beer festivals from around the world? See the [Beer Festival Calendar @ Open Beer](https://github.com/openbeer/calendar). 
 
 ---
 
