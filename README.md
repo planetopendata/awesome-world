@@ -9,15 +9,16 @@ Awesome Series @ Planet Open Data
 
 A collection of awesome world  (countries, cities, codes, latitude/longitude, flags, languages, etc.) datasets
 
-Note: :package: stands for a Tabular Data Package ([What is?](http://data.okfn.org/doc/tabular-data-package)) and :octocat: stands for the GitHub page. 
-
 ---
 
 [ANNOUNCEMENT] Looking for awesome beer festivals from around the world? See the [Beer Festival Calendar @ Open Beer](https://github.com/openbeer/calendar). 
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
+
+Note: :package: stands for a Tabular Data Package ([What is?](http://data.okfn.org/doc/tabular-data-package)) and :octocat: stands for the GitHub page. 
 
 ## World Data Guides / Articles
 
