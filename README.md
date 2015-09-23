@@ -128,8 +128,10 @@ _Where's the open world data?_
 
 - [The World Factbook @ Central Intelligence Agency (CIA)](https://www.cia.gov/library/publications/the-world-factbook/)
 - [Wikipedia: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook) - Commentary
-- [Open World Factbook :octocat:](https://github.com/openfactbook) - The World Factbook in open data formats. Flags and maps included; managed by Eckhard Licher
+- [openfactbook :octocat:](https://github.com/openfactbook) - The World Factbook in open data formats. Flags and maps included; managed by Eckhard Licher
 - [openmundi/factbook.json :octocat:](https://github.com/openmundi/factbook.json) - Datasets (JSON)
+- [openmundi/factbook :octocat:](https://github.com/openmundi/factbook.json) - Profile Pages in HTML; Cleaned-up for (Easier) Processing e.g. Turing into Structured Data (e.g. JSON)
+
 - [worlddb/factbook :octocat:](https://github.com/worlddb/factbook) - Scripts
 
 - [hijaz/factbook :octocat:](https://github.com/hijaz/factbook) - World Factbook scraped raw data
