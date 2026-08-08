@@ -86,6 +86,7 @@ _Where's the open world data?_
 
 - [Country List :octocat:](https://github.com/umpirsky/country-list) - list of all countries with names and ISO 3166-1 codes in all languages and data formats (JSON, YAML, XML, CSV, SQL etc.)
 - [Country Data @ OpenBookPrices :octocat:](https://github.com/OpenBookPrices/country-data) - Country related data such as ISO codes, currencies etc
+- [WhatsThePop](https://whatsthepop.world) - compare any two countries side-by-side (population, GDP, area, climate, languages) with instant charts - [:octocat:](https://github.com/aaahyun/worldcompare)
 
 
 ## Country Codes (Alpha2, Alpha3, Num, etc.)
