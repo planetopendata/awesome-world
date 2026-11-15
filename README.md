@@ -166,6 +166,7 @@ _Where's the open world data?_
 - [Global Open Data Index @ Open Knowledge](http://index.okfn.org)
     - [Places](http://index.okfn.org/place) - Country Overview (Ranking)
     - [Datasets](http://index.okfn.org/dataset)
+- [No Stairs Please](https://nostairsplease.com/) - Searchable directory and map of 11,400+ under-400-capacity live music venues across US states, DC, and British Columbia
 
 ## Community (Questions & Answers, Announcements, etc.)
 
